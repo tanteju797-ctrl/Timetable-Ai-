@@ -1,0 +1,6 @@
+{
+  "name": "Final Exam Roadmap",
+  "description": "An interactive, ultra-glassmorphic and highly animated 3-day exam preparation roadmap dashboard with real-time schedule tracking, focus modes, and study timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
